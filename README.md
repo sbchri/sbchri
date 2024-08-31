@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Previously I'm an Internal Auditor at Government Institution in Indonesia. When dealing with my job, I'm used a lot of tools to speed up my work, I get used to use spreadsheet as my main tools but need additional tools to help me dealing with variety of dataset. Currently I'm a collage student at University of Indonesia as Accounting Student, with my interest on coding field, especially on code that related to data thing, while being accounting student I think will be my plus point at the future. 
 <!--
 **sbchri/sbchri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
